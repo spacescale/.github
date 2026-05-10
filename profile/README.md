@@ -1,5 +1,3 @@
-# SpaceScale
-
 SpaceScale is building infrastructure for humans, agents, and serious workloads.
 
 Our first public runtime is Ignite, built for isolated container execution on secure, high-performance infrastructure without forcing teams to manage servers.
